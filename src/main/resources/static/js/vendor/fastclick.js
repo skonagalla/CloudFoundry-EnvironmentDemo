@@ -11,6 +11,7 @@
 /*global define, Event, Node*/
 
 
+
 /**
  * Instantiate fast-clicking listeners on the specificed layer.
  *
